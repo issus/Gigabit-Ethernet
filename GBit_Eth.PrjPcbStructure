@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=TOP.SchDoc
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=U_PHY|SchDesignator=U_PHY|FileName=PHY.SchDoc|SymbolType=Normal|RawFileName=PHY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=PHY.SchDoc|Designator=U_Magnetics|SchDesignator=U_Magnetics|FileName=Magnetics.SchDoc|SymbolType=Normal|RawFileName=Magnetics.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
